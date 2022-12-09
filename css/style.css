@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+img {
+  float: right;
+  width: 200px;
+  height: 400px;
+}
