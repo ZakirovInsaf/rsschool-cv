@@ -4,7 +4,7 @@
   * Phone: +79393069201
   * Telegram: @ZakirovInsaf
   * E-mail: insafzakirov@gmail.com
-**
+***
 ### About me
 I'm currently studying at the Rolling Scopes School. My goal is to have a good job. I spend a lot of time on the computer, so I decided to be a front-end developer.
 My strong suits are problem solving and perseverance. I want to acquire knowledge and skills that will be enough for employment in a company.
@@ -13,7 +13,7 @@ My strong suits are problem solving and perseverance. I want to acquire knowledg
   * HTML5, CSS3
   * JavaScript Basics
   * Git, GitHub
-**
+***
 ### Code examples
 ```
 function randomDecision() {
@@ -21,10 +21,10 @@ function randomDecision() {
 }
 console.log(randomDecision());
 ``` 
-**
+***
 ### Courses:
   * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-**
+***
 ### Languages
   * Russian - Native
   * Tatar - Native
