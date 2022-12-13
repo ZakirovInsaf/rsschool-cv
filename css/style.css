@@ -80,9 +80,9 @@ nav {
 }
 
 .main-about {
-  height: 996px;
+  height: 900px;
   background: #010208;
-  padding: 50px 0;
+  padding-top: 50px;
   font-weight: 600;
   font-size: 24px;
   line-height: 150%;
@@ -115,17 +115,19 @@ nav {
   align-items: center;
   justify-content: space-between;
   height: 700px;
+  align-items: flex-start;
 }
 .main-others-text {
   font-weight: 600;
-  font-size: 16px;
+  font-size: 20px;
   color: rgba(227, 228, 230, 0.55);
   list-style: none;
+  text-align: justify;
 }
 .main-others-title {
   font-weight: 600;
   font-size: 24px;
-  text-align: center;
+  text-transform: uppercase;
 }
 .line {
   position: absolute;
@@ -141,9 +143,10 @@ nav {
 }
 .footer-main {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   height: 300px;
+  gap: 50px;
 }
 .rs-image,
 .git-img {
@@ -152,4 +155,14 @@ nav {
 }
 .rs-image {
   background-color: hsl(0, 0%, 100%);
+}
+.main-others-text span {
+  color: #a03bff;
+  font-weight: 600;
+}
+.main-others-text code {
+  font-weight: 300;
+}
+footer {
+  position: relative;
 }
