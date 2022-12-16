@@ -21,7 +21,6 @@ body {
 nav .nav-menu {
   display: flex;
   justify-content: space-between;
-  
 }
 .nav-list {
   list-style: none;
@@ -116,7 +115,7 @@ nav .nav-menu {
   font-weight: 600;
   font-size: 20px;
   color: rgba(227, 228, 230, 0.55);
-  list-style: none;
+  list-style: square;
   text-align: justify;
   text-transform: uppercase;
 }
@@ -144,24 +143,22 @@ nav .nav-menu {
   height: 300px;
   gap: 50px;
 }
-.rs-image,
 .git-img {
-  width: 48px;
-  height: 48px;
+  width: 100px;
 }
 .rs-image {
-  background-color: hsl(0, 0%, 100%);
+  width: 100px;
 }
 .main-others-text span {
   color: #f588ff;
   font-weight: 300;
-  font-family: 'Source Code Pro'
+  font-family: "Source Code Pro";
 }
 .main-others-text code {
   font-weight: 300;
   font-size: 14px;
   text-transform: lowercase;
-  font-family: 'Source Code Pro'
+  font-family: "Source Code Pro";
 }
 .footer-main {
   position: relative;
