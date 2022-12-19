@@ -5,6 +5,9 @@
   font-family: "Work Sans";
   color: #e3e4e6;
 }
+html {
+  scroll-behavior: smooth;
+}
 header {
   padding-top: 45px;
   height: 96px;
