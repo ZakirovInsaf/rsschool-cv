@@ -1,7 +1,7 @@
 # Insaf Zakirov
 ## Junior Frontend Developer
 ### Contact information:
-  * Phone: +79393069201
+  * Phone: +79393067601
   * Telegram: @ZakirovInsaf
   * E-mail: insafzakirov@gmail.com
 ***
