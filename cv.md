@@ -9,7 +9,7 @@
 ## Skills
 - HTML
 - CSS
-- JS
+- Java Script
 - GIT
 ## Code Example
 ```javascript
