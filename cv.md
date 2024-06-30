@@ -6,6 +6,6 @@ insafzakirov@gmail.com
 I am a beginner web developer from Kazan
 ***
 # Skills:
-JS
+Basic JS
 HTML&CSS
 Git
