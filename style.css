@@ -1,3 +1,30 @@
-body{
-  background-color: black;
+body {
+}
+.container {
+	max-width: 1170px;
+	margin: auto;
+	text-align: center;
+	border: solid;
+}
+.header__img img {
+	width: 300px;
+	border: solid;
+}
+.header_preview {
+	display: flex;
+	justify-content: space-around;
+}
+.header__info {
+	font-size: 20px;
+	text-align: left;
+}
+.main_text {
+	text-align: left;
+	font-size: 20px;
+}
+code {
+	background-color: bisque;
+}
+li {
+	margin: 10px;
 }
