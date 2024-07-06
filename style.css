@@ -1,5 +1,4 @@
-body {
-}
+
 .container {
 	max-width: 1170px;
 	margin: auto;
@@ -27,4 +26,11 @@ code {
 }
 li {
 	margin: 10px;
+}
+.footer_img {
+	width: 100px;
+}
+.footer_logos {
+	display: flex;
+	justify-content: space-around;
 }
