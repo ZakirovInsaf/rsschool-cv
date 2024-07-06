@@ -1,1 +1,1 @@
-https://zakirovinsaf.github.io/rsschool-cv/cv
+https://zakirovinsaf.github.io/rsschool-cv/
