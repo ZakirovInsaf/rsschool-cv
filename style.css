@@ -18,7 +18,7 @@
 	width: 500px;
 	margin-left: 100px;
 }
-.main_text {
+nav {
 	text-align: left;
 	font-size: 20px;
 }
@@ -38,4 +38,10 @@ li {
 }
 main {
 	margin: 50px 0 50px 30px;
+}
+.line {
+	height: 10px;
+	width: 100px;
+	border-bottom: solid;
+	margin-left: 30px;
 }
